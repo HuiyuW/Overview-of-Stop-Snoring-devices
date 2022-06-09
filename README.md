@@ -66,7 +66,7 @@ Finally, we also analyzed the cost performance of the product. Considering the p
 According to the price-performance chart shown in Figure 7, we can see that the Nose Sticker and Anti-Snoring Pillow are more cost-effective.Due to the high price of the ventilator, we did not include it in the graph for comparison, as that would have unintuitive effects. Although the improvement effect of the ventilator is obvious, we will not show it in the price-performance graph.  
 
 ![Price_Performance](./Visualisation/Price_Performance.jpg)  
-![Price_and_Safty](./Visualisation/Price_and_Safty.jpg)     
+![Price_and_Safty](./References_images/Price_and_Safty.jpg)         
 [Figure 7]
 
 
@@ -94,6 +94,7 @@ wrote documentation
 * Yichu Chen  
 Tested devices and organized tests  
 Made video  
+Videos Link: [Overview of "Stop Snoring" devices](https://www.youtube.com/watch?v=fkBrQGWJPI8)
 
 
 
