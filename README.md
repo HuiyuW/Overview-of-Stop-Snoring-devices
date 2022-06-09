@@ -1,4 +1,4 @@
-# Overview of Stop Snoring devices
+# Overview of Stop Snoring devices 
 
 ## Contents  
 - [Introduction](#Introduction)  
@@ -102,3 +102,6 @@ Videos Link: [Overview of "Stop Snoring" devices](https://www.youtube.com/watch?
 * [1][Clinical Applications of Computational Medicine](https://www.ce.cit.tum.de/ldv/lehre/clinical-applications-of-computational-medicine/)
 * [2][ISO 10993-1:2018(en) Biological evaluation of medical devices](https://www.iso.org/obp/ui#iso:std:iso:10993:-1:ed-5:v2:en)
 * [3][Serra‐Torres S, Bellot‐Arcís C, Montiel‐Company J M, et al. Effectiveness of mandibular advancement appliances in treating obstructive sleep apnea syndrome: a systematic review[J]. The Laryngoscope, 2016, 126(2): 507-514.](https://onlinelibrary.wiley.com/doi/abs/10.1002/lary.25505)
+
+![logo](./References_images/logo1.png) 
+[logo]
